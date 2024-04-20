@@ -1,0 +1,33 @@
+1. affiliation famnit students
+2.animated pictures , interactive story, inovative approtch towards stories and reading
+Our app is unique in a way that we make reading more interactive for kids and easily accesible for kids and allow monitoring by the parent
+prob and solution 
+kids are not interesterd to read, visaly appealing and enticing animated interactive audio book
+make your own story
+
+3. ovo djordje al otprilike
+mom and kid set up account
+kid reads
+mom takes tablet i guess
+look at image of paper prototype for more information
+
+4. prototype.mp4
+
+5. source: i made it up matrix
+we learned that it just works (maybe mom wants her phone back quicker)
+recruitment: facetime
+enviorment: their home and their devices
+procedure:
+mom1 female 34 child m 7 7m 45s account set up, vuk's aunt(1), home, facetime analyzing paper prototype 
+mom2 female 42 child f 4 5m 35s account set up, vuk's aunt(2), home, facetime analyzing paper prototype
+mom3 female 30 child m 8 7m 45s account set up, vuk's aunt(3), home, facetime analyzing paper prototype
+mom4 female 27 child m 7 2m 55s account set up, rastko's neighbour, home, facetime analyzing paper prototype
+mom5 female 50 child f 12 7m 30s account set up, djordje's mom 
+
+
+
+7.a) there were a lot more customization options that whould complicate the application too much, from difficulty to where audio book stops/starts
+b)The developlment of the high-fidelity prototype whould be challenging(it whould require voice acting and animation), but scaleing of the app from there on would be straightforward.
+8. stfu
+
+9. we found that ppl need to be told what to do(after we added the first 3 slides that explained the course of actions the time of setup lowered). We found that all prototypes need to be tested on the target audince so that the necessary impovements can be made. It is indeed still good. 

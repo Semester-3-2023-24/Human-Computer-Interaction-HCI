@@ -1,0 +1,58 @@
+1. slide 
+-> Title
+-> each team member’s name (first name plus last initial) -> (Rastko P, Djordje B, Anastasija T, Vuk M)
+
+2. slide
+-> Problem & Solution: 
+Problem: Many people find it difficult to join marathons because they can be expensive, and even if the marathon itself is not costly, the travel expenses to reach the desired location often become a significant barrier.
+Solution: Introducing an innovative app that works seamlessly with advanced 8D treadmills and virtual reality glasses, transforming the marathon experience. This solution aims to remove financial obstacles, offering a more immersive and affordable alternative.
+
+DESCRIBE THE FOCUS GROUP
+3. slide
+-> Number of participans: 27, people that run marathons between 30 and 50 years old
+-> What did you learn / change as a result? 
+
+4. slide 
+-> images of respones
+
+5. slide
+-> images of respones
+
+PRESENT YOUR SYSTEM
+6. slide
+-> nemam neka idea za ovo
+
+INITIAL PROTOTYPE OVERVIEW
+7. slide
+-> picture of our first wireframe
+
+8. slide
+-> feedback on our wireframe from another group (what should we change)
+
+9. slide
+-> picture of final project(wireframe)
+
+PROTOTYPE OVERVIEW
+10. slide
+-> Djorjde's prototype (picture)
+
+11. slide
+-> 2 ChatGPT pictures for the prototype
+
+12. slide
+-> one more picture of the prototype from chatgpt 
+
+PROTOTYPE
+13. slide
+-> picture proof of where the survey was sent
+
+14. slide
+-> Video
+
+CONCLUSION
+15. slide
+-> 
+
+9. Future work (1 slide) What is it left to do? Or you did not do? -> za ovo ne treba nam nista
+
+

@@ -1,0 +1,34 @@
+1. brainstorming to present at least 5 ides how you can do the "running threadmill thing"  
+2. 3 ways how you will aproach this (plan)
+
+Fitness Adventure Challenges -> design a series of fitness challenges within a VR environment, encouraging users to complete tasks, overcome obstacles & achieve specific fitness milestones
+
+Virtual Running Events -> organize virtual running events or marathons within the VR environment, participants from around the world can join
+
+Personalized Fitness Challenges -> we can develop a platform where users can set and share personalized fitness challenges with their friends
+
+Multiplayer Racing League -> build a multiplayer VR racing league where users can compete against friends, to have leaderboards, challenges & rewards to enhance the competitive aspect
+
+
+///////////////////////////////////////////////////////////////////////////////////////////// 
+
+FINAL DECISION
+Global Fitness Challenges -> organize global fitness challenges that unite participants from around the world & virtual routes (could be famous real-world locations)
+
+people groups:
+-sport turism -> people that want to learn how this work
+-casual runners or runners that are preparing for marathons
+
+8D treadmill:
+wind
+temparature
+automatic incline
+rain
+
+find 7 people -> group range (30 - 50 y.)
+
+we should make video prototype
+
+
+
+https://docs.google.com/forms/d/1F57nilrDC65PB_woUEkHd6ft-nb7V03wnQZu5np_-S0/edit#responses
